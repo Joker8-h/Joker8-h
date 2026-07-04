@@ -4,41 +4,79 @@
 
 </div>
 
-<table width="100%" cellpadding="10">
-<tr>
-<td width="70%" valign="top">
+<!-- ANIMATED BANNER -->
+<div align="center">
 
-### Hey there! 👋 I'm
+![Banner](https://raw.githubusercontent.com/Joker8-h/Joker8-h/main/assets/banner.svg)
 
-# Arlys Alfonso
+</div>
 
-### Full Stack Developer | AI Enthusiast | Freelancer
+<!-- TYPING SVG -->
+<div align="center">
 
-Me especializo en construir aplicaciones web modernas, escalables y con experiencias de usuario excepcionales. Me apasiona la inteligencia artificial y como puede transformar ideas en productos increibles.
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=00D4FF&center=true&vCenter=true&multiline=true&repeat=true&width=700&height=120&lines=Full+Stack+Developer;AI+%2F+ML+Enthusiast;DevOps+%26+Cloud;Building+Smart+Solutions+%F0%9F%9A%80)](https://git.io/typing-svg)
 
-[![Visita mi Portafolio](https://img.shields.io/badge/Visita_mi_Portfolio-7c3aed?style=for-the-badge&logo=github&logoColor=white&labelColor=7c3aed)](https://github.com/Joker8-h)
-[![Contactame](https://img.shields.io/badge/Contactame-ffffff?style=for-the-badge&logo=linkedin&logoColor=0077b5&labelColor=ffffff&color=ffffff)](mailto:arlisalfonsopertuzvillareal@gmail.com)
+</div>
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/arlis-alfonso-pertuz-villareal-9735513bb/)
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=flat&logo=instagram&logoColor=white)](https://www.instagram.com/)
-[![Email](https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white)](mailto:arlisalfonsopertuzvillareal@gmail.com)
-[![Portfolio](https://img.shields.io/badge/Portfolio-00d4ff?style=flat&logo=github&logoColor=white)](https://github.com/Joker8-h)
-[![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=flat&logo=whatsapp&logoColor=white)](https://wa.me/573001234567)
+---
 
-</td>
-<td width="30%" valign="top">
+<!-- ABOUT ME -->
+<div align="center">
+
+### 🚀 Currently Working On
+
+- **AI-Powered Applications** — Computer vision systems with real-time detection
+- **Full Stack Platforms** — End-to-end web solutions with modern frameworks
+- **DevOps Automation** — CI/CD pipelines and containerized deployments
+
+### 🤝 Open to Collaboration
+
+[![Open to Work](https://img.shields.io/badge/-Open%20to%20Work-4CAF50?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Joker8-h)
+[![Available for Hire](https://img.shields.io/badge/-Available%20for%20Hire-2196F3?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/arlis-alfonso-pertuz-villareal-9735513bb/)
+
+</div>
+
+---
+
+<!-- TECH STACK SVG -->
+<div align="center">
+
+![Tech Stack](https://raw.githubusercontent.com/Joker8-h/Joker8-h/main/assets/tech-stack.svg)
+
+</div>
+
+---
+
+<!-- FEATURED PROJECTS SVG -->
+<div align="center">
+
+### ⭐ Mis Proyectos Destacados
+
+![Projects](https://raw.githubusercontent.com/Joker8-h/Joker8-h/main/assets/project-cards.svg)
+
+</div>
+
+---
+
+<!-- STATS SECTION -->
+<div align="center">
 
 ### 📊 GitHub Stats
 
+![Stats](https://raw.githubusercontent.com/Joker8-h/Joker8-h/main/assets/stats-card.svg)
+
+</div>
+
+<table>
+<tr>
+<td valign="top">
+
 [![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Joker8-h&show_icons=true&theme=radical&hide_border=true&include_all_commits=true&count_private=true&bg_color=0d1117&title_color=7c3aed&icon_color=00d4ff&text_color=ffffff)](https://github.com/Joker8-h)
 
-### 🔥 Streak
+</td>
+<td valign="top">
 
 [![GitHub Streak](https://streak-stats.demolab.com?user=Joker8-h&theme=radical&hide_border=true&background=0d1117&ring=7c3aed&fire=00d4ff&currStreakLabel=00d4ff&sideLabels=ffffff&dates=888888)](https://github.com/Joker8-h)
-
-### 🏆 Trophies
-
-[![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=Joker8-h&theme=radical&no-frame=true&no-bg=true&column=3&margin-w=10&bg_color=0d1117)](https://github.com/ryo-ma/github-profile-trophy)
 
 </td>
 </tr>
@@ -46,41 +84,55 @@ Me especializo en construir aplicaciones web modernas, escalables y con experien
 
 ---
 
-### ⭐ Mis Proyectos Destacados
-
-| Polla Mundialista 🏆 | Reconocimiento de Placa 🔍 | MOVIFLEXX 🚀 |
-|:---:|:---:|:---:|
-| Plataforma de quiniela para el mundial con sistema de puntos y premios. | Sistema de reconocimiento de placas vehiculares con inteligencia artificial en tiempo real. | Aplicacion movil nativa para soluciones de movilidad urbana con arquitectura moderna. |
-| `Next.js` `TypeScript` `PostgreSQL` | `Python` `YOLO` `OpenCV` | `Kotlin` `Android` `Gradle` |
-| ⭐ 27 Fork 8 | ⭐ 42 Fork 12 | ⭐ 35 Fork 15 |
-| [Ver proyecto →](https://github.com/Joker8-h/polla-mundialista) | [Ver proyecto →](https://github.com/Joker8-h/reconocimiento-placa) | [Ver proyecto →](https://github.com/Joker8-h/MOVIFLEXX) |
-
----
-
-### 🛠️ Tech Stack
-
+<!-- TROPHIES -->
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=react,nextjs,typescript,nodejs,python,kotlin,android,docker,git,postgresql,mongodb,flask,prisma,opencv,tailwind,html,css,github" />
+### 🏆 GitHub Trophies
+
+[![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=Joker8-h&theme=radical&no-frame=true&no-bg=true&column=7&margin-w=10&bg_color=0d1117)](https://github.com/ryo-ma/github-profile-trophy)
 
 </div>
 
 ---
 
+<!-- ACTIVITY GRAPH -->
+<div align="center">
+
 ### 📊 Actividad en GitHub
 
 [![Joker8-h's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Joker8-h&theme=radical&hide_border=true&color=00d4ff&bg_color=0d1117)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
+</div>
+
 ---
 
+<!-- QUOTE -->
 <div align="center">
 
 > "La mejor manera de predecir el futuro es creándolo." — Peter Drucker
 
-<br>
+</div>
+
+---
+
+<!-- CONTACT -->
+<div align="center">
+
+### 📬 Contact
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/arlis-alfonso-pertuz-villareal-9735513bb/)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:arlisalfonsopertuzvillareal@gmail.com)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Joker8-h)
+
+</div>
+
+---
+
+<!-- FOOTER -->
+<div align="center">
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=14&duration=4000&pause=2000&color=7c3aed&center=true&vCenter=true&multiline=true&repeat=true&width=500&height=80&lines=Thanks+for+visiting!+%F0%9F%91%8B;Keep+building+amazing+things!+%F0%9F%9A%80)](https://git.io/typing-svg)
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:00d4ff,100:7c3aed&height=120&section=footer"/>
+![Footer](https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:00d4ff,100:7c3aed&height=120&section=footer)
 
 </div>
