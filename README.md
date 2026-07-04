@@ -47,12 +47,12 @@ const arlis = {
 
 | Project | Description | Stack |
 |---------|-------------|-------|
-| ⚽ **Polla Mundialista** | Full-stack betting platform with real-time match tracking | React, Node.js, MongoDB |
-| 🤖 **BOT WHATSAPP** | WhatsApp automation bot with smart responses | Node.js, Twilio, Express |
-| 🚗 **Reconocimiento Placa** | Computer vision system for license plate recognition | Python, OpenCV, YOLOv8 |
-| 🎬 **MOVIFLEXX** | Video streaming platform with content management | React, Firebase, Tailwind |
-| 🖥 **BACKENDMOVI** | Robust backend API for streaming platform | Node.js, Express, MySQL |
-| 🗺️ **Optimizacion Rutas** | Route optimization algorithm using Dijkstra & A* | Python, NetworkX |
+| ⚽ **Polla Mundialista** | FIFA World Cup 2026 fantasy prediction platform | Next.js, TypeScript, Prisma, PostgreSQL |
+| 🤖 **BOT WHATSAPP** | WhatsApp bot with AI-powered interactions | Node.js, Docker, JavaScript |
+| 🚗 **Reconocimiento Placa** | License plate recognition with YOLO + WebRTC | Python, YOLOv11, OpenCV, Flask |
+| 📱 **MOVIFLEXX** | Android app for urban mobility solutions | Java, Kotlin, Android |
+| 🖥 **BACKENDMOVI** | Backend service for shared mobility platform | Node.js, Express, Prisma, MySQL |
+| 🗺️ **Optimizacion Rutas** | Route optimization API with Python + Docker | Python, Flask, Docker |
 
 ---
 
