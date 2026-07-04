@@ -1,8 +1,12 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:00d4ff,100:7c3aed&height=220&section=header&text=Joker8-h&fontSize=80&fontColor=ffffff&fontAlignY=35&desc=Full%20Stack%20Developer&descSize=18&descAlignY=55&animation=fadeIn&duration=1000"/>
+<a href="https://github.com/Joker8-h">
+  <img src="https://capsule-render.vercel.app/api?type=radial&color=0:0d1117,50:00d4ff,100:7c3aed&height=250&section=header&text=Joker8-h&fontSize=80&fontColor=ffffff&fontAlignY=35&desc=Full%20Stack%20Developer%20%7C%20AI%2FML%20%7C%20DevOps&descSize=18&descAlignY=60&animation=fadeIn&duration=1000"/>
+</a>
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=00D4FF&center=true&vCenter=true&multiline=true&repeat=true&width=600&height=100&lines=Full+Stack+Developer;AI+%2F+ML+Enthusiast;DevOps+%26+Cloud;Building+Smart+Solutions)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=00D4FF&center=true&vCenter=true&multiline=true&repeat=true&width=700&height=120&lines=Full+Stack+Developer;AI+%2F+ML+Enthusiast;DevOps+%26+Cloud;Building+Smart+Solutions+%F0%9F%9A%80)](https://git.io/typing-svg)
+
+![Profile Views](https://komarev.com/ghpvc/?username=Joker8-h&color=00D4FF&style=for-the-badge&label=PROFILE+VIEWS)
 
 </div>
 
@@ -12,7 +16,9 @@
 
 ```javascript
 const joker8h = {
+  name: "Arlys Alfonso Pertuz Villarreal",
   role: "Full Stack Developer",
+  location: "Colombia",
   focus: ["Web Applications", "AI/ML Integration", "DevOps"],
   currentWork: "Building intelligent systems with computer vision",
   funFact: "I turn coffee into code and ideas into reality",
@@ -24,6 +30,7 @@ const joker8h = {
 - 🌱 I'm constantly learning about **new technologies** and **best practices**
 - 💡 I love building things that combine **web development** with **artificial intelligence**
 - ⚡ Fun fact: I started with HTML and now I deploy Docker containers with YOLO models
+- 🎯 Goal: Become a **Staff Engineer** specializing in AI/ML infrastructure
 
 ---
 
@@ -35,9 +42,13 @@ const joker8h = {
 
 ### 🤝 Open to Collaboration
 
+[![Open to Work](https://img.shields.io/badge/-Open%20to%20Work-4CAF50?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Joker8-h)
+[![Available for Hire](https://img.shields.io/badge/-Available%20for%20Hire-2196F3?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/arlis-alfonso-pertuz-villareal-9735513bb/)
+
 - Open source AI/ML projects
 - Full stack web applications
 - DevOps and cloud infrastructure
+- Remote opportunities
 
 ---
 
@@ -46,39 +57,22 @@ const joker8h = {
 <div align="center">
 
 #### Frontend
-![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white)
+<img src="https://skillicons.dev/icons?i=react,nextjs,typescript,html,css,tailwind" />
 
 #### Backend
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
-![Express](https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=white)
-![Prisma](https://img.shields.io/badge/Prisma-2D3748?style=for-the-badge&logo=prisma&logoColor=white)
-![Sequelize](https://img.shields.io/badge/Sequelize-52B0E7?style=for-the-badge&logo=sequelize&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
+<img src="https://skillicons.dev/icons?i=nodejs,express,prisma,python,flask" />
 
 #### Mobile
-![Kotlin](https://img.shields.io/badge/Kotlin-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white)
-![Android](https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white)
+<img src="https://skillicons.dev/icons?i=kotlin,android,gradle" />
 
 #### AI / Machine Learning
-![OpenCV](https://img.shields.io/badge/OpenCV-5C3EEF?style=for-the-badge&logo=opencv&logoColor=white)
-![YOLO](https://img.shields.io/badge/YOLO-00FFFF?style=for-the-badge&logo=ai&logoColor=black)
+<img src="https://skillicons.dev/icons?i=opencv,tensorflow,pytorch" />
 
 #### DevOps & Tools
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
-![Cypress](https://img.shields.io/badge/Cypress-17202C?style=for-the-badge&logo=cypress&logoColor=white)
-![Playwright](https://img.shields.io/badge/Playwright-2EAD33?style=for-the-badge&logo=playwright&logoColor=white)
+<img src="https://skillicons.dev/icons?i=docker,git,github,cypress,playwright,linux" />
 
 #### Databases
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
+<img src="https://skillicons.dev/icons?i=mongodb,postgresql,redis" />
 
 </div>
 
@@ -169,6 +163,16 @@ Backend service integrating AI models for intelligent data processing with Prism
 
 ---
 
+## <img src="https://media.giphy.com/media/WpLbJp4lp4RqFq3Q3a/giphy.gif" width="35"> GitHub Trophies
+
+<div align="center">
+
+[![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=Joker8-h&theme=radical&no-frame=true&no-bg=true&column=7&margin-w=10)](https://github.com/ryo-ma/github-profile-trophy)
+
+</div>
+
+---
+
 ## <img src="https://media.giphy.com/media/WpLbJp4lp4RqFq3Q3a/giphy.gif" width="35"> GitHub Analytics
 
 <div align="center">
@@ -184,9 +188,33 @@ Backend service integrating AI models for intelligent data processing with Prism
 
 </div>
 
+---
+
+## <img src="https://media.giphy.com/media/WpLbJp4lp4RqFq3Q3a/giphy.gif" width="35"> Activity Graph
+
 <div align="center">
 
-![Joker8h's GitHub stats](https://github-readme-stats.vercel.app/api?username=Joker8-h&show_icons=true&theme=radical&hide_border=true)
+[![Joker8-h's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Joker8-h&theme=radical&hide_border=true&color=00D4FF&bg_color=0d1117)](https://github.com/ashutosh00710/github-readme-activity-graph)
+
+</div>
+
+---
+
+## <img src="https://media.giphy.com/media/WpLbJp4lp4RqFq3Q3a/giphy.gif" width="35"> Contribution Snake
+
+<div align="center">
+
+![Snake animation](https://raw.githubusercontent.com/Joker8-h/Joker8-h/output/github-contribution-grid-snake-dark.svg)
+
+</div>
+
+---
+
+## <img src="https://media.giphy.com/media/l4FGI2HnlKMbweklO/giphy.gif" width="35"> Random Dev Quote
+
+<div align="center">
+
+[![Readme Quotes](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)](https://github.com/piyushsuthar/github-readme-quotes)
 
 </div>
 
@@ -206,7 +234,8 @@ Backend service integrating AI models for intelligent data processing with Prism
 
 <div align="center">
 
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=16&duration=4000&pause=2000&color=7C3AED&center=true&vCenter=true&multiline=true&repeat=true&width=500&height=80&lines=Thanks+for+visiting!+%F0%9F%91%8B;Keep+building+amazing+things!+%F0%9F%9A%80)](https://git.io/typing-svg)
+
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:00d4ff,100:7c3aed&height=120&section=footer"/>
 
 </div>
-
