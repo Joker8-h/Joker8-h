@@ -4,7 +4,7 @@
 
 </div>
 
-<table>
+<table width="100%" cellpadding="10">
 <tr>
 <td width="70%" valign="top">
 
@@ -16,12 +16,8 @@
 
 Me especializo en construir aplicaciones web modernas, escalables y con experiencias de usuario excepcionales. Me apasiona la inteligencia artificial y como puede transformar ideas en productos increibles.
 
-<br>
-
 [![Visita mi Portafolio](https://img.shields.io/badge/Visita_mi_Portfolio-7c3aed?style=for-the-badge&logo=github&logoColor=white&labelColor=7c3aed)](https://github.com/Joker8-h)
 [![Contactame](https://img.shields.io/badge/Contactame-ffffff?style=for-the-badge&logo=linkedin&logoColor=0077b5&labelColor=ffffff&color=ffffff)](mailto:arlisalfonsopertuzvillareal@gmail.com)
-
-<br>
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/arlis-alfonso-pertuz-villareal-9735513bb/)
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=flat&logo=instagram&logoColor=white)](https://www.instagram.com/)
@@ -36,6 +32,14 @@ Me especializo en construir aplicaciones web modernas, escalables y con experien
 
 [![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Joker8-h&show_icons=true&theme=radical&hide_border=true&include_all_commits=true&count_private=true&bg_color=0d1117&title_color=7c3aed&icon_color=00d4ff&text_color=ffffff)](https://github.com/Joker8-h)
 
+### 🔥 Streak
+
+[![GitHub Streak](https://streak-stats.demolab.com?user=Joker8-h&theme=radical&hide_border=true&background=0d1117&ring=7c3aed&fire=00d4ff&currStreakLabel=00d4ff&sideLabels=ffffff&dates=888888)](https://github.com/Joker8-h)
+
+### 🏆 Trophies
+
+[![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=Joker8-h&theme=radical&no-frame=true&no-bg=true&column=3&margin-w=10&bg_color=0d1117)](https://github.com/ryo-ma/github-profile-trophy)
+
 </td>
 </tr>
 </table>
@@ -44,74 +48,12 @@ Me especializo en construir aplicaciones web modernas, escalables y con experien
 
 ### ⭐ Mis Proyectos Destacados
 
-<table>
-<tr>
-<td width="33%" valign="top">
-
-#### Polla Mundialista 🏆
-
-Plataforma de quiniela para el mundial con sistema de puntos y premios.
-
-[![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat&logo=next.js&logoColor=white)](https://nextjs.org/)
-[![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white)](https://www.typescriptlang.org/)
-[![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat&logo=postgresql&logoColor=white)](https://www.postgresql.org/)
-
-⭐ 27 &nbsp; Fork 8 &nbsp; [Ver proyecto →](https://github.com/Joker8-h/polla-mundialista)
-
-</td>
-<td width="33%" valign="top">
-
-#### Reconocimiento de Placa 🔍
-
-Sistema de reconocimiento de placas vehiculares con inteligencia artificial en tiempo real.
-
-[![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)](https://www.python.org/)
-[![YOLO](https://img.shields.io/badge/YOLO-00FFFF?style=flat&logoColor=white)](https://docs.ultralytics.com/)
-[![OpenCV](https://img.shields.io/badge/OpenCV-5C3EEF?style=flat&logo=opencv&logoColor=white)](https://opencv.org/)
-
-⭐ 42 &nbsp; Fork 12 &nbsp; [Ver proyecto →](https://github.com/Joker8-h/reconocimiento-placa)
-
-</td>
-<td width="33%" valign="top">
-
-#### MOVIFLEXX 🚀
-
-Aplicacion movil nativa para soluciones de movilidad urbana con arquitectura moderna.
-
-[![Kotlin](https://img.shields.io/badge/Kotlin-7F52FF?style=flat&logo=kotlin&logoColor=white)](https://kotlinlang.org/)
-[![Android](https://img.shields.io/badge/Android-3DDC84?style=flat&logo=android&logoColor=white)](https://developer.android.com/)
-[![Gradle](https://img.shields.io/badge/Gradle-02303A?style=flat&logo=gradle&logoColor=white)](https://gradle.org/)
-
-⭐ 35 &nbsp; Fork 15 &nbsp; [Ver proyecto →](https://github.com/Joker8-h/MOVIFLEXX)
-
-</td>
-</tr>
-</table>
-
----
-
-### 📊 GitHub Stats
-
-<table>
-<tr>
-<td valign="top">
-
-[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Joker8-h&show_icons=true&theme=radical&hide_border=true&include_all_commits=true&count_private=true&bg_color=0d1117&title_color=7c3aed&icon_color=00d4ff&text_color=ffffff)](https://github.com/Joker8-h)
-
-</td>
-<td valign="top">
-
-[![GitHub Streak](https://streak-stats.demolab.com?user=Joker8-h&theme=radical&hide_border=true&background=0d1117&ring=7c3aed&fire=00d4ff&currStreakLabel=00d4ff&sideLabels=ffffff&dates=888888)](https://github.com/Joker8-h)
-
-</td>
-</tr>
-</table>
-
----
-
-### 🏆 GitHub Trophies
-
-[![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=Joker8-h&theme=radical&no-frame=true&no-bg=true&column=7&margin-w=10&bg_color=0d1117)](https://github.com/ryo-ma/github-profile-trophy)
+| Polla Mundialista 🏆 | Reconocimiento de Placa 🔍 | MOVIFLEXX 🚀 |
+|:---:|:---:|:---:|
+| Plataforma de quiniela para el mundial con sistema de puntos y premios. | Sistema de reconocimiento de placas vehiculares con inteligencia artificial en tiempo real. | Aplicacion movil nativa para soluciones de movilidad urbana con arquitectura moderna. |
+| `Next.js` `TypeScript` `PostgreSQL` | `Python` `YOLO` `OpenCV` | `Kotlin` `Android` `Gradle` |
+| ⭐ 27 Fork 8 | ⭐ 42 Fork 12 | ⭐ 35 Fork 15 |
+| [Ver proyecto →](https://github.com/Joker8-h/polla-mundialista) | [Ver proyecto →](https://github.com/Joker8-h/reconocimiento-placa) | [Ver proyecto →](https://github.com/Joker8-h/MOVIFLEXX) |
 
 ---
 
