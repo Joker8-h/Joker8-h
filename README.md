@@ -4,10 +4,10 @@
 
 </div>
 
-<!-- BANNER -->
+<!-- PROFILE HEADER (Facebook/Instagram style) -->
 <div align="center">
 
-![Banner](https://raw.githubusercontent.com/Joker8-h/Joker8-h/main/assets/banner.svg)
+![Profile Header](https://raw.githubusercontent.com/Joker8-h/Joker8-h/main/assets/profile-header.svg)
 
 </div>
 
@@ -22,36 +22,19 @@
 
 ---
 
-### 🚀 Currently Working On
-
-![About Me](https://raw.githubusercontent.com/Joker8-h/Joker8-h/main/assets/about-me.svg)
-
-### 🤝 Open to Collaboration
+### 📸 Proyectos
 
 <div align="center">
 
-[![Open to Work](https://img.shields.io/badge/Open_to_Work-10B981?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Joker8-h)
-[![Available for Hire](https://img.shields.io/badge/Available_for_Hire-2563EB?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/arlis-alfonso-pertuz-villareal-9735513bb/)
+<a href="https://github.com/Joker8-h/polla-mundialista"><img src="https://raw.githubusercontent.com/Joker8-h/Joker8-h/main/assets/projects/polla-mundialista.svg" width="30%" /></a>
+<a href="https://github.com/Joker8-h/BOT-WHATSAPP"><img src="https://raw.githubusercontent.com/Joker8-h/Joker8-h/main/assets/projects/bot-whatsapp.svg" width="30%" /></a>
+<a href="https://github.com/Joker8-h/reconocimiento-placa"><img src="https://raw.githubusercontent.com/Joker8-h/Joker8-h/main/assets/projects/reconocimiento-placa.svg" width="30%" /></a>
+
+<a href="https://github.com/Joker8-h/MOVIFLEXX"><img src="https://raw.githubusercontent.com/Joker8-h/Joker8-h/main/assets/projects/moviflexx.svg" width="30%" /></a>
+<a href="https://github.com/Joker8-h/BACKENDMOVI"><img src="https://raw.githubusercontent.com/Joker8-h/Joker8-h/main/assets/projects/backendmovi.svg" width="30%" /></a>
+<a href="https://github.com/Joker8-h/Optimizacion_Of_Rutas"><img src="https://raw.githubusercontent.com/Joker8-h/Joker8-h/main/assets/projects/optimizacion-rutas.svg" width="30%" /></a>
 
 </div>
-
----
-
-### 🛠️ Tech Stack
-
-<div align="center">
-
-<a href="https://skillicons.dev">
-  <img src="https://skillicons.dev/icons?i=js,ts,html,css,react,nodejs,python,java,docker,aws,git,mysql&perline=6&theme=dark" />
-</a>
-
-</div>
-
----
-
-### ⭐ Featured Projects
-
-![Projects](https://raw.githubusercontent.com/Joker8-h/Joker8-h/main/assets/project-cards.svg)
 
 ---
 
@@ -69,7 +52,11 @@
 
 ### 💬 Quote
 
+<div align="center">
+
 ![Quote](https://raw.githubusercontent.com/Joker8-h/Joker8-h/main/assets/quote.svg)
+
+</div>
 
 ---
 
