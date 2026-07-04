@@ -1,4 +1,4 @@
-<div align="center">
+﻿<div align="center">
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:00d4ff,100:7c3aed&height=220&section=header&text=Joker8-h&fontSize=80&fontColor=ffffff&fontAlignY=35&desc=Full%20Stack%20Developer&descSize=18&descAlignY=55&animation=fadeIn&duration=1000"/>
 
@@ -24,6 +24,20 @@ const joker8h = {
 - 🌱 I'm constantly learning about **new technologies** and **best practices**
 - 💡 I love building things that combine **web development** with **artificial intelligence**
 - ⚡ Fun fact: I started with HTML and now I deploy Docker containers with YOLO models
+
+---
+
+### 🚀 Currently Working On
+
+- **AI-Powered Applications** — Computer vision systems with real-time detection
+- **Full Stack Platforms** — End-to-end web solutions with modern frameworks
+- **DevOps Automation** — CI/CD pipelines and containerized deployments
+
+### 🤝 Open to Collaboration
+
+- Open source AI/ML projects
+- Full stack web applications
+- DevOps and cloud infrastructure
 
 ---
 
@@ -183,6 +197,7 @@ Backend service integrating AI models for intelligent data processing with Prism
 <div align="center">
 
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:arlisalfonsopertuzvillareal@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/arlis-alfonso-pertuz-villareal-9735513bb/)
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Joker8-h)
 
 </div>
@@ -194,3 +209,4 @@ Backend service integrating AI models for intelligent data processing with Prism
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:00d4ff,100:7c3aed&height=120&section=footer"/>
 
 </div>
+
