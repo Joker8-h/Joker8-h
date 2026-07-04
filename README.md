@@ -38,10 +38,14 @@
 
 ---
 
-<!-- TECH STACK SVG -->
+<!-- TECH STACK -->
 <div align="center">
 
-![Tech Stack](https://raw.githubusercontent.com/Joker8-h/Joker8-h/main/assets/tech-stack.svg)
+### 🛠️ Tech Stack
+
+<a href="https://skillicons.dev">
+  <img src="https://skillicons.dev/icons?i=js,ts,html,css,react,nodejs,python,java,docker,aws,git,mysql&perline=6&theme=dark" />
+</a>
 
 </div>
 
@@ -63,46 +67,11 @@
 
 ### 📊 GitHub Stats
 
-![Stats](https://raw.githubusercontent.com/Joker8-h/Joker8-h/main/assets/stats-card.svg)
-
 </div>
 
-<table>
-<tr>
-<td valign="top">
+<img width="49%" src="https://github-stats-extended.vercel.app/api?username=Joker8-h&show_icons=true&theme=radical&hide_border=true&include_all_commits=true&count_private=true&bg_color=0d1117&title_color=7c3aed&icon_color=00d4ff&text_color=ffffff&ring=7c3aed&fire=00d4ff" /> <img width="49%" src="https://github-stats-extended.vercel.app/api/top-langs/?username=Joker8-h&theme=radical&hide_border=true&bg_color=0d1117&title_color=7c3aed&text_color=ffffff&layout=compact&langs_count=8&ring=7c3aed&fire=00d4ff" />
 
-[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Joker8-h&show_icons=true&theme=radical&hide_border=true&include_all_commits=true&count_private=true&bg_color=0d1117&title_color=7c3aed&icon_color=00d4ff&text_color=ffffff)](https://github.com/Joker8-h)
-
-</td>
-<td valign="top">
-
-[![GitHub Streak](https://streak-stats.demolab.com?user=Joker8-h&theme=radical&hide_border=true&background=0d1117&ring=7c3aed&fire=00d4ff&currStreakLabel=00d4ff&sideLabels=ffffff&dates=888888)](https://github.com/Joker8-h)
-
-</td>
-</tr>
-</table>
-
----
-
-<!-- TROPHIES -->
-<div align="center">
-
-### 🏆 GitHub Trophies
-
-[![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=Joker8-h&theme=radical&no-frame=true&no-bg=true&column=7&margin-w=10&bg_color=0d1117)](https://github.com/ryo-ma/github-profile-trophy)
-
-</div>
-
----
-
-<!-- ACTIVITY GRAPH -->
-<div align="center">
-
-### 📊 Actividad en GitHub
-
-[![Joker8-h's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Joker8-h&theme=radical&hide_border=true&color=00d4ff&bg_color=0d1117)](https://github.com/ashutosh00710/github-readme-activity-graph)
-
-</div>
+<img width="49%" src="https://streak-stats.demolab.com?user=Joker8-h&theme=radical&hide_border=true&background=0d1117&ring=7c3aed&fire=00d4ff&currStreakLabel=00d4ff&sideLabels=ffffff&dates=888888" /> <img width="49%" src="https://github-readme-activity-graph.vercel.app/graph?username=Joker8-h&theme=radical&hide_border=true&color=00d4ff&bg_color=0d1117" />
 
 ---
 
