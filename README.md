@@ -1,167 +1,90 @@
-<div align="center">
+# Arlis Alfonso Pertuz Villareal
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=220&color=0:6D28D9,50:8B5CF6,100:3B82F6&text=Arlis%20Alfonso&fontSize=52&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Full%20Stack%20%7C%20AI%20%26%20Computer%20Vision%20%7C%20Software%20Engineer&descAlignY=62" width="100%" />
-
-<br>
-
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=20&pause=2000&color=A78BFA&center=true&vCenter=true&width=800&height=45&lines=Building+Scalable+Full+Stack+Systems;Computer+Vision+%26+Biometrics+(YOLO+%2B+OpenCV);AI-Powered+Agents+%26+Automation;Available+for+Global+Engineering+Roles+%F0%9F%9A%80&background=0d111700" alt="Typing SVG" />
-
-<p align="center">
-  <a href="https://www.linkedin.com/in/arlis-alfonso-pertuz-villareal-9735513bb/">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
-  </a>
-  <a href="mailto:arlisalfonsopertuzvillareal@gmail.com">
-    <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
-  </a>
-  <a href="https://github.com/Joker8-h?tab=repositories">
-    <img src="https://img.shields.io/badge/Repositories-Public_Projects-8B5CF6?style=for-the-badge&logo=github&logoColor=white" alt="Repositories" />
-  </a>
-  <img src="https://img.shields.io/badge/Location-Colombia-10B981?style=for-the-badge" alt="Location Colombia" />
+<p>
+  <b>Full Stack & AI Systems Engineer</b> • Colombia 🇨🇴<br>
+  <i>Especializado en sistemas distribuidos, visión artificial y automatización inteligente.</i>
 </p>
 
-</div>
+<p>
+  <a href="https://www.linkedin.com/in/arlis-alfonso-pertuz-villareal-9735513bb/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+  <a href="mailto:arlisalfonsopertuzvillareal@gmail.com"><img src="https://img.shields.io/badge/Email-arlisalfonso-EA4335?style=flat-square&logo=gmail&logoColor=white" alt="Email" /></a>
+  <a href="https://github.com/Joker8-h?tab=repositories"><img src="https://img.shields.io/badge/GitHub-Joker8--h-181717?style=flat-square&logo=github&logoColor=white" alt="GitHub" /></a>
+</p>
 
 ---
 
-### 👨‍💻 Executive Summary / Perfil Profesional
+## 👨‍💻 Perfil Profesional
 
-I am a **Full Stack & AI Engineer** based in Colombia, specialized in engineering resilient distributed systems, real-time computer vision pipelines, and autonomous AI agents. I combine solid web and mobile development capabilities with microservice architecture and containerized cloud deployments.
+Desarrollador **Full Stack & AI Engineer** con experiencia en la arquitectura y despliegue de sistemas de producción de punta a punta: plataformas web y móviles, microservicios containerizados, visión artificial en tiempo real y automatizaciones transaccionales con IA.
 
-* 🚀 **Core Expertise:** End-to-end Web & Mobile architectures, Computer Vision (YOLO + OpenCV), and LLM/AI Agent workflow automation.
-* 💼 **Proven Delivery:** Architected full-featured logistics platforms with route optimization (OSRM) and facial biometric verification deployed in production environments.
-* 🛠️ **Engineering Principles:** Clean Architecture, containerized workflows (Docker), typed contracts (TypeScript), and performance-driven databases (PostgreSQL/MySQL/Supabase).
-* 🌍 **Availability:** Open for full-time international remote engineering positions, high-impact freelance contracts, and startup collaboration.
-
----
-
-### 🚀 Featured Engineering Projects
-
-<table>
-  <tr>
-    <td width="50%" valign="top">
-      <h4>🚗 DomiFlex & MOVIFLEXX — Urban Logistics & Mobility Platform</h4>
-      <p>Plataforma integral de movilidad urbana y logística de entregas con enrutamiento de alta precisión y seguridad biométrica.</p>
-      <ul>
-        <li><b>Microservicios OSRM:</b> Algoritmos de enrutamiento y optimización de rutas en tiempo real adaptados para Colombia.</li>
-        <li><b>Biometría Facial:</b> API dedicada para registro, comparación y verificación facial con OpenCV.</li>
-        <li><b>Clientes Multiplataforma:</b> Aplicación nativa Android (Java/Kotlin) y panel administrativo Web reactivo (React).</li>
-        <li><b>Backend Distribuido:</b> Arquitectura desacoplada en Node.js, Express, Prisma y Docker sobre Railway.</li>
-      </ul>
-      <p>
-        <a href="https://github.com/Joker8-h/domiflex-web"><b>[Web App]</b></a> •
-        <a href="https://github.com/Joker8-h/domiflex-backend"><b>[Backend API]</b></a> •
-        <a href="https://github.com/Joker8-h/MOVIFLEXX"><b>[Android App]</b></a> •
-        <a href="https://github.com/Joker8-h/domiflex-facial"><b>[Facial API]</b></a>
-      </p>
-    </td>
-    <td width="50%" valign="top">
-      <h4>🤖 BOT-WHATSAPP — Enterprise AI Agent & Workflow Automation</h4>
-      <p>Asistente conversacional corporativo con arquitectura Full Stack para flujos transaccionales y automatización empresarial.</p>
-      <ul>
-        <li><b>Integración con IA:</b> Procesamiento inteligente de mensajes y resolución contextual con modelos LLM.</li>
-        <li><b>Flujo Transaccional Completo:</b> Integración con pasarela de pagos <i>Wompi</i> y agenda sincronizada con <i>Google Calendar</i>.</li>
-        <li><b>Escalabilidad:</b> Desacoplamiento asíncrono para envíos masivos y auto-respuesta continua containerizado en Docker.</li>
-      </ul>
-      <p>
-        <a href="https://github.com/Joker8-h/BOT-WHATSAPP"><b>[Ver Repositorio en GitHub]</b></a>
-      </p>
-    </td>
-  </tr>
-  <tr>
-    <td width="50%" valign="top">
-      <h4>👁️ Real-Time Computer Vision & License Plate Recognition</h4>
-      <p>Pipeline de visión por computadora para detección de objetos en tiempo real, reconocimiento de placas de vehículos y biometría.</p>
-      <ul>
-        <li><b>Inferencia YOLOv11:</b> Detección de alta velocidad sobre streams de video y WebRTC.</li>
-        <li><b>Procesamiento de Imágenes:</b> Filtros morfológicos y reconocimiento de patrones con OpenCV.</li>
-        <li><b>Despliegue Cloud:</b> Contenedores Docker optimizados para ejecución en Railway.</li>
-      </ul>
-      <p>
-        <a href="https://github.com/Joker8-h/Reconocimiento_de_objetos"><b>[Repo de Detección]</b></a> •
-        <a href="https://github.com/Joker8-h/Optimizacion_Of_Rutas"><b>[Route Optimizer API]</b></a>
-      </p>
-    </td>
-    <td width="50%" valign="top">
-      <h4>⚡ CoreX9 & Enterprise Authentication Services</h4>
-      <p>Módulos de autenticación empresarial y control de accesos basados en tokens criptográficos y seguridad por roles.</p>
-      <ul>
-        <li><b>Seguridad Robusta:</b> Flujos JWT con refresco seguro, hashing de contraseñas y sanitización de payloads.</li>
-        <li><b>Integraciones de Base de Datos:</b> Modelado relacional optimizado en PostgreSQL y MySQL con Prisma ORM.</li>
-      </ul>
-      <p>
-        <a href="https://github.com/Joker8-h/PROYECTOACCESO"><b>[Control Biométrico & Acceso]</b></a> •
-        <a href="https://github.com/Joker8-h/tokens_jwt"><b>[JWT Security Module]</b></a>
-      </p>
-    </td>
-  </tr>
-</table>
+* **Frontend & Mobile:** React, Next.js, TypeScript, Tailwind CSS, Android Nativo (Java / Kotlin).
+* **Backend & Microservicios:** Node.js, Express, Python (FastAPI / Flask), Prisma ORM, Arquitectura REST.
+* **IA & Visión Artificial:** YOLOv11, OpenCV, Biometría Facial, Agentes LLM, Procesamiento asíncrono.
+* **Bases de Datos & Cloud:** PostgreSQL, MySQL, Supabase, MongoDB, Docker, Railway, Git.
 
 ---
 
-### 🛠️ Technical Stack & Tooling
+## 🚀 Proyectos Destacados y Arquitectura
 
-<div align="center">
-
-#### Frontend & Mobile Engineering
-<img src="https://skillicons.dev/icons?i=react,nextjs,typescript,javascript,tailwind,html,css,androidstudio,java,kotlin&theme=dark" alt="Frontend & Mobile" />
-
-<br>
-
-#### Backend & Distributed Systems
-<img src="https://skillicons.dev/icons?i=nodejs,express,python,fastapi,flask,prisma&theme=dark" alt="Backend & Systems" />
-
-<br>
-
-#### AI, Computer Vision & Data
-<img src="https://skillicons.dev/icons?i=opencv,python&theme=dark" alt="AI & Vision" />
-&nbsp;
-<a href="#featured-engineering-projects">
-  <img src="https://img.shields.io/badge/YOLOv11-Computer_Vision-00FFFF?style=for-the-badge&logo=python&logoColor=black" alt="YOLOv11" />
-</a>
-<a href="#featured-engineering-projects">
-  <img src="https://img.shields.io/badge/LLM_Agents-Orchestration-8B5CF6?style=for-the-badge&logo=openai&logoColor=white" alt="AI Agents" />
-</a>
-
-<br>
-
-#### Databases, Cloud & DevOps
-<img src="https://skillicons.dev/icons?i=postgres,mysql,mongodb,supabase,docker,git,github,postman&theme=dark" alt="Databases & DevOps" />
-
-</div>
+### 🚗 [DomiFlex](https://github.com/Joker8-h/domiflex-web) & [MOVIFLEXX](https://github.com/Joker8-h/MOVIFLEXX) — Ecosistema de Movilidad y Logística Urbana
+Plataforma completa de logística de entregas y movilidad urbana con optimización de rutas y validación biométrica de seguridad.
+* **Microservicios OSRM:** Algoritmos dedicados para cálculo de matrices de distancia y optimización de tiempos en tiempo real adaptados para Colombia ([domiflex-osrm](https://github.com/Joker8-h/domiflex-osrm)).
+* **Biometría Facial:** API para registro, comparación e identificación facial instantánea con OpenCV ([domiflex-facial](https://github.com/Joker8-h/domiflex-facial)).
+* **Arquitectura:** Clientes multiplataforma (Android en Java/Kotlin + React Web) consumiendo un backend distribuido en Node.js, Express, Prisma y PostgreSQL containerizado con Docker en Railway.
+* **Enlaces:** [Panel Web](https://github.com/Joker8-h/domiflex-web) • [Backend API](https://github.com/Joker8-h/domiflex-backend) • [App Android](https://github.com/Joker8-h/MOVIFLEXX) • [API Facial](https://github.com/Joker8-h/domiflex-facial)
 
 ---
 
-### 📊 GitHub Activity & Real Metrics
-
-<div align="center">
-
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=Joker8-h&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&title_color=8B5CF6&icon_color=8B5CF6&text_color=94A3B8" alt="GitHub Stats" />
-<img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=Joker8-h&theme=tokyonight&hide_border=true&ring=8B5CF6&fire=8B5CF6&currStreakLabel=8B5CF6&sideNums=E2E8F0&currStreakNum=FFFFFF" alt="Streak Stats" />
-
-</div>
+### 🤖 [BOT-WHATSAPP](https://github.com/Joker8-h/BOT-WHATSAPP) — Asistente Corporativo con IA y Automatización Transaccional
+Agente inteligente full stack para gestión conversacional, cobros automáticos y agendamiento empresarial.
+* **Integración con IA:** Comprensión de lenguaje y resolución de consultas complejas mediante modelos LLM.
+* **Flujos Transaccionales:** Integración con la pasarela de pagos Wompi y sincronización bidireccional con Google Calendar.
+* **Escalabilidad:** Procesamiento de colas y mensajería en segundo plano containerizado con Docker.
+* **Enlace:** [Repositorio BOT-WHATSAPP](https://github.com/Joker8-h/BOT-WHATSAPP)
 
 ---
 
-### 📬 Let's Connect & Collaborate
+### 👁️ [Reconocimiento de Placas y Objetos](https://github.com/Joker8-h/Reconocimiento_de_objetos) — Pipeline de Visión por Computadora en Tiempo Real
+Sistema de visión artificial para detección y lectura automatizada de patentes vehiculares sobre video en vivo.
+* **Inferencia de Alta Velocidad:** Implementación de modelos YOLOv11 optimizados para streaming de video y WebRTC.
+* **Procesamiento de Imágenes:** Filtros morfológicos y reconocimiento óptico de caracteres (OCR) con OpenCV.
+* **Optimización de Rutas:** Microservicio conectado con API de optimización de recorridos vehiculares en Python ([Optimizacion_Of_Rutas](https://github.com/Joker8-h/Optimizacion_Of_Rutas)).
+* **Enlaces:** [Detección de Objetos / Placas](https://github.com/Joker8-h/Reconocimiento_de_objetos) • [Optimizador de Rutas](https://github.com/Joker8-h/Optimizacion_Of_Rutas)
 
-<div align="center">
+---
 
-<p>¿Tienes un proyecto en mente o buscas un perfil técnico con capacidad para diseñar arquitecturas completas e integrar IA? Conectemos:</p>
+### ⚡ [CoreX9](https://github.com/Joker8-h/tokens_jwt) & [Proyecto Acceso](https://github.com/Joker8-h/PROYECTOACCESO) — Seguridad, Tokens y Control de Acceso
+Módulos de seguridad corporativa, autenticación basada en tokens y control de accesos biométricos.
+* **Seguridad Criptográfica:** Flujos JWT completos con rotación de tokens, hashing seguro y protección contra inyecciones.
+* **Enlaces:** [Módulo de Tokens JWT](https://github.com/Joker8-h/tokens_jwt) • [Control de Acceso Biométrico](https://github.com/Joker8-h/PROYECTOACCESO)
 
-<a href="https://www.linkedin.com/in/arlis-alfonso-pertuz-villareal-9735513bb/">
-  <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
-</a>
-&nbsp;
-<a href="mailto:arlisalfonsopertuzvillareal@gmail.com">
-  <img src="https://img.shields.io/badge/Gmail-Direct_Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
-</a>
-&nbsp;
-<a href="https://github.com/Joker8-h">
-  <img src="https://img.shields.io/badge/GitHub-Profile-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
-</a>
+---
 
-<br><br>
+## 🛠️ Stack Tecnológico
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=90&color=0:6D28D9,50:8B5CF6,100:3B82F6&section=footer" width="100%" />
+| Capa | Tecnologías y Herramientas |
+| :--- | :--- |
+| **Frontend & Mobile** | React, Next.js, TypeScript, JavaScript (ES6+), Tailwind CSS, Android Studio (Java, Kotlin) |
+| **Backend & APIs** | Node.js, Express, Python (FastAPI, Flask), RESTful APIs, Prisma ORM |
+| **IA & Visión Artificial** | YOLOv11, OpenCV, Biometría Facial, LLM APIs, Agentes Autónomos |
+| **Bases de Datos** | PostgreSQL, MySQL, Supabase, MongoDB |
+| **DevOps & Herramientas** | Docker, Railway, Git, GitHub Actions, Postman, Linux |
 
-</div>
+---
+
+## 📊 Actividad en GitHub
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Joker8-h&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&title_color=8B5CF6&icon_color=8B5CF6&text_color=94A3B8" height="150" alt="GitHub Stats" />
+  &nbsp;&nbsp;
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Joker8-h&theme=tokyonight&hide_border=true&ring=8B5CF6&fire=8B5CF6&currStreakLabel=8B5CF6&sideNums=E2E8F0&currStreakNum=FFFFFF" height="150" alt="Streak Stats" />
+</p>
+
+---
+
+## 📬 Contacto Profesional
+
+* **LinkedIn:** [linkedin.com/in/arlis-alfonso-pertuz-villareal-9735513bb](https://www.linkedin.com/in/arlis-alfonso-pertuz-villareal-9735513bb/)
+* **Email:** [arlisalfonsopertuzvillareal@gmail.com](mailto:arlisalfonsopertuzvillareal@gmail.com)
+* **GitHub:** [github.com/Joker8-h](https://github.com/Joker8-h)
+* **Disponibilidad:** Abierto a ofertas de contratación remota internacional y proyectos de desarrollo de alto impacto.
