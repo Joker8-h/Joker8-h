@@ -1,11 +1,11 @@
 <div align="center">
 
-  <img src="https://raw.githubusercontent.com/Joker8-h/Joker8-h/main/assets/header.svg" width="100%" alt="Arlis Alfonso - Full Stack & AI Systems Engineer" />
+  <img src="https://raw.githubusercontent.com/Joker8-h/Joker8-h/main/assets/header.svg" width="100%" alt="Arlys Alfonso - Full Stack & AI Systems Engineer" />
 
   <br><br>
 
   <p align="center">
-    <a href="https://www.linkedin.com/in/arlis-alfonso-pertuz-villareal-9735513bb/" target="_blank">
+    <a href="https://www.linkedin.com/in/arlys-alfonso-pertuz-villarreal-9735513bb/" target="_blank">
       <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
     </a>
     &nbsp;
@@ -106,7 +106,7 @@ Desarrollador **Full Stack & AI Engineer** con experiencia en la construcción d
 <div align="center">
   <p>
     <b>¿Tienes un proyecto en mente o buscas un perfil técnico de alto impacto?</b><br>
-    <a href="https://www.linkedin.com/in/arlis-alfonso-pertuz-villareal-9735513bb/">Hablemos en LinkedIn</a> • 
+    <a href="https://www.linkedin.com/in/arlys-alfonso-pertuz-villarreal-9735513bb/">Hablemos en LinkedIn</a> • 
     <a href="mailto:arlisalfonsopertuzvillareal@gmail.com">Enviar un correo directo</a>
   </p>
 </div>

@@ -54,11 +54,11 @@
   <circle cx="74" cy="28" r="6" fill="#27c93f"/>
 
   <!-- Window Title -->
-  <text x="425" y="32" text-anchor="middle" fill="#94a3b8" class="mono" font-size="12" font-weight="500">arlis@workstation: ~/portfolio (fullstack-ai)</text>
+  <text x="425" y="32" text-anchor="middle" fill="#94a3b8" class="mono" font-size="12" font-weight="500">arlys@workstation: ~/portfolio (fullstack-ai)</text>
 
   <!-- Terminal Content -->
   <!-- Line 1: Name Header with Gradient -->
-  <text x="42" y="90" fill="url(#nameGradient)" class="mono" font-size="30" font-weight="bold" letter-spacing="-0.5">Arlis Alfonso</text>
+  <text x="42" y="90" fill="url(#nameGradient)" class="mono" font-size="30" font-weight="bold" letter-spacing="-0.5">Arlys Alfonso</text>
   <text x="280" y="86" fill="#38bdf8" class="mono" font-size="14" font-weight="600">[Full Stack &amp; AI Engineer]</text>
 
   <!-- Line 2: Role / Subtitle -->
