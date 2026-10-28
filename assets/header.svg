@@ -1,0 +1,109 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 850 250" width="850" height="250">
+  <defs>
+    <!-- Background Gradient -->
+    <linearGradient id="bgGradient" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#0b0f19" />
+      <stop offset="50%" stop-color="#0f172a" />
+      <stop offset="100%" stop-color="#1e1b4b" />
+    </linearGradient>
+
+    <!-- Border Glow Gradient -->
+    <linearGradient id="borderGradient" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" stop-color="#38bdf8" />
+      <stop offset="50%" stop-color="#8b5cf6" />
+      <stop offset="100%" stop-color="#ec4899" />
+    </linearGradient>
+
+    <!-- Name Glow Gradient -->
+    <linearGradient id="nameGradient" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" stop-color="#60a5fa" />
+      <stop offset="50%" stop-color="#a78bfa" />
+      <stop offset="100%" stop-color="#f472b6" />
+    </linearGradient>
+
+    <!-- Drop Shadow Filter -->
+    <filter id="cardShadow" x="-10%" y="-10%" width="120%" height="120%">
+      <feDropShadow dx="0" dy="12" stdDeviation="16" flood-color="#000000" flood-opacity="0.6"/>
+    </filter>
+  </defs>
+
+  <style>
+    @keyframes blink {
+      0%, 100% { opacity: 1; }
+      50% { opacity: 0; }
+    }
+    @keyframes pulse {
+      0%, 100% { opacity: 0.9; }
+      50% { opacity: 0.4; }
+    }
+    .mono { font-family: 'SFMono-Regular', Consolas, 'Liberation Mono', Menlo, 'Courier New', monospace; }
+    .cursor { animation: blink 1s infinite; }
+    .status-dot { animation: pulse 2s infinite; }
+  </style>
+
+  <!-- Main Card -->
+  <rect x="10" y="10" width="830" height="230" rx="14" fill="url(#bgGradient)" stroke="url(#borderGradient)" stroke-width="1.5" filter="url(#cardShadow)"/>
+
+  <!-- Window Header Bar -->
+  <path d="M 10 24 A 14 14 0 0 1 24 10 L 826 10 A 14 14 0 0 1 840 24 L 840 46 L 10 46 Z" fill="#1e1e2e" fill-opacity="0.8"/>
+  <line x1="10" y1="46" x2="840" y2="46" stroke="#312e81" stroke-width="1"/>
+
+  <!-- Window Control Buttons (macOS Style) -->
+  <circle cx="34" cy="28" r="6" fill="#ff5f56"/>
+  <circle cx="54" cy="28" r="6" fill="#ffbd2e"/>
+  <circle cx="74" cy="28" r="6" fill="#27c93f"/>
+
+  <!-- Window Title -->
+  <text x="425" y="32" text-anchor="middle" fill="#94a3b8" class="mono" font-size="12" font-weight="500">arlis@workstation: ~/portfolio (fullstack-ai)</text>
+
+  <!-- Terminal Content -->
+  <!-- Line 1: Name Header with Gradient -->
+  <text x="42" y="90" fill="url(#nameGradient)" class="mono" font-size="30" font-weight="bold" letter-spacing="-0.5">Arlis Alfonso</text>
+  <text x="280" y="86" fill="#38bdf8" class="mono" font-size="14" font-weight="600">[Full Stack &amp; AI Engineer]</text>
+
+  <!-- Line 2: Role / Subtitle -->
+  <text x="42" y="122" fill="#94a3b8" class="mono" font-size="14">
+    <tspan fill="#ec4899">&gt; </tspan>Building scalable distributed systems, computer vision &amp; AI agents
+  </text>
+
+  <!-- Line 3: Specialties -->
+  <text x="42" y="154" class="mono" font-size="13">
+    <tspan fill="#64748b">$ specialties  </tspan>
+    <tspan fill="#f1f5f9">= [ </tspan>
+    <tspan fill="#a78bfa">"OSRM Microservices"</tspan>
+    <tspan fill="#f1f5f9">, </tspan>
+    <tspan fill="#38bdf8">"YOLOv11 &amp; OpenCV"</tspan>
+    <tspan fill="#f1f5f9">, </tspan>
+    <tspan fill="#34d399">"Autonomous AI Agents"</tspan>
+    <tspan fill="#f1f5f9"> ]</tspan>
+  </text>
+
+  <!-- Line 4: Core Tech -->
+  <text x="42" y="182" class="mono" font-size="13">
+    <tspan fill="#64748b">$ core_stack   </tspan>
+    <tspan fill="#f1f5f9">= [ </tspan>
+    <tspan fill="#38bdf8">"Next.js"</tspan>
+    <tspan fill="#f1f5f9">, </tspan>
+    <tspan fill="#a78bfa">"Node.js"</tspan>
+    <tspan fill="#f1f5f9">, </tspan>
+    <tspan fill="#fbbf24">"Python"</tspan>
+    <tspan fill="#f1f5f9">, </tspan>
+    <tspan fill="#34d399">"Docker"</tspan>
+    <tspan fill="#f1f5f9">, </tspan>
+    <tspan fill="#60a5fa">"PostgreSQL"</tspan>
+    <tspan fill="#f1f5f9">, </tspan>
+    <tspan fill="#f472b6">"Android"</tspan>
+    <tspan fill="#f1f5f9"> ]</tspan>
+  </text>
+
+  <!-- Line 5: Location & Availability -->
+  <text x="42" y="210" class="mono" font-size="13">
+    <tspan fill="#64748b">$ status       </tspan>
+    <tspan fill="#f1f5f9">= </tspan>
+    <tspan fill="#34d399">"Open to international remote engineering roles &amp; high-impact contracts"</tspan>
+    <tspan fill="#38bdf8" class="cursor"> █</tspan>
+  </text>
+
+  <!-- Live Pulse Dot in Header Right -->
+  <circle cx="810" cy="28" r="4.5" fill="#34d399" class="status-dot"/>
+</svg>
